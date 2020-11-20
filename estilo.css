@@ -1,9 +1,22 @@
 *{
+    background-color: #F4FA58;
+    color: #08088a;
     margin: 0;
     padding: 0;
 }
+
 h1{
-    color: rgb(255, 0, 255);
-    font-weight: 100;
+    color: rgb( 160, 0, 0);
+    font-weight: 40;
+    font-size: medium;
+}
+
+
+
+
+
+h2{
+    color: rgb(0, 0, 102);
+    font-weight: bolder;
     font-size: 9em;
 }
