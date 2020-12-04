@@ -1,0 +1,33 @@
+table{
+border: solid 1px;
+border-spacing: 12px;
+}
+
+td{
+text-align: center;
+border: solid 1px;
+}
+.amarillo{
+    background-color: yellow;
+}
+.rojo{
+    background-color: red;
+}
+.azulo{
+    background-color: blue;
+}
+.verde{
+    background-color: rgb(0, 206, 0);
+}
+.gris{
+    background-color: gray;
+}
+.rosa{
+    background-color: palevioletred;
+}
+.griso{
+    background-color: rgb(92, 92, 92);
+}
+.celeste{
+    background-color: aqua;
+}
